@@ -111,16 +111,6 @@
       "ext": "http://xhww.fun:63/小米/源/饭团.json"
     },
     {
-      "key": "csp_奇优",
-      "name": "🧼┃奇优┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json"
-    },
-    {
       "key": "csp_zxzj",
       "name": "🍏┃超前┃点播",
       "type": 3,
@@ -149,15 +139,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/剧白白.json"
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "👻┃明明┃App",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "迪迪",
@@ -674,30 +655,6 @@
       "jar": ""
     },
     {
-      "key": "零度",
-      "name": "❄零度┃高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/小刀.json"
-    },
-    {
-      "key": "龟龟",
-      "name": "龟龟┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/龟龟.json"
-    },
-    {
-      "key": "速搜",
-      "name": "速搜┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "http://xhww.fun:63/小米/源/速搜.json"
-    },
-    {
       "key": "虎虎",
       "name": "虎虎┃BPQ",
       "type": 3,
@@ -720,45 +677,6 @@
       "ext": "http://xhww.fun:63/小米/源/子子.json"
     },
     {
-      "key": "兔兔",
-      "name": "兔兔｜BPQ",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/兔兔.json"
-    },
-    {
-      "key": "臭蛋",
-      "name": "臭蛋┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xhww.fun:63/小米/源/蛋蛋.json"
-    },
-    {
-      "key": "csp_XBPQ_JOJO",
-      "name": "JOJO┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
-        "数组": "<a&&</a>",
-        "图片": "src=\"&&\"",
-        "标题": "class=\"card-title\">&&</p>",
-        "副标题": "class=\"item-speed\">&&</p>",
-        "链接": "href=\"&&\"",
-        "播放数组": "class=\"plyr-sidebar-list&&</div>",
-        "嗅探词": "aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token",
-        "搜索url": "https://app.syrme.top/video/search?q={wd}",
-        "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
-        "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
-      }
-    },
-    {
       "key": "apv2_瑞丰",
       "name": "⛄┃瑞丰┃影视",
       "type": 3,
@@ -774,36 +692,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "快看资源",
-      "name": "快看┃切片",
-      "type": 1,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
     },
     {
       "key": "app_轻简",
@@ -1047,25 +935,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_AppMr",
-      "name": "🦍┃二明┃影视",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "🌀┃蓝光┃影院",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.lgyy.vip"
-    },
-    {
       "key": "csp_Vofl",
       "name": "🧿┃VoFl┃资源",
       "type": 3,
@@ -1103,16 +972,6 @@
         "泰剧",
         "体育"
       ]
-    },
-    {
-      "key": "py_cctv",
-      "name": "❤️┃央视┃大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/cctv.py"
     },
     {
       "key": "csp_骚火",
